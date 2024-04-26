@@ -1,5 +1,7 @@
 # JukeBox
 
+## Video Walkthrough: https://youtu.be/2facuiI6-k8
+
 ## Overview 
 
 A Jukebox is a music-playing machine commonly found in diners and other places. Typically you pay money (or not if it's free) to play a song or several songs. There are usually options to play and pause songs, skip to previous and next tracks, skip to first tracks of current, next, and previous playlists, and to toggle the Jukebox to repeat all the playlists. Each Jukebox is different, so some may have more or less features than the ones outlined here.
